@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidClase2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello</string>
+
+    <!--<string-array name="Member_names">
+        <item>Bobby</item>
+        <item>Larva</item>
+        <item>Rasho</item>
+        <item>Malote</item>
+        <item>Yayo</item>
+        <item>Rajul</item>
+        <item>Lead</item>
+        <item>Kauzha</item>
+    </string-array>
+
+    <array name="profile_pics">
+        <item>@drawa</item>
+    </array>-->
+
+</resources>
